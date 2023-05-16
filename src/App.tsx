@@ -1,10 +1,9 @@
-import { useState } from 'react';
 import './App.css';
 import logo from './logo.svg';
 
 function App() {
 
-  const [Couter, setCouter] = useState(0)
+  // const [Couter, setCouter] = useState(0)
   return (
     <div className="App">
       <header className="App-header">
